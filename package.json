@@ -1,0 +1,21 @@
+{
+  "name": "my-cms",
+  "version": "1.0.0",
+  "description": "Bu, benim ilk CMS (İçerik Yönetim Sistemi) projemdir.  \r Web geliştirme becerilerimi geliştirmek için bu projeye başladım.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertfurkandgn/my-cms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mertfurkandgn/my-cms/issues"
+  },
+  "homepage": "https://github.com/mertfurkandgn/my-cms#readme"
+}
